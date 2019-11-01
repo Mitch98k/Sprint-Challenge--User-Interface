@@ -154,6 +154,7 @@ footer nav a {
     align-items: flex-start;
     margin-right: 25%;
     margin-left: 35%;
+    margin-top: 0% auto;
 }
 nav{ 
     display: flex;
@@ -273,4 +274,39 @@ nav{
     align-items: center;
     justify-content: center;
     background-color: teal;
+}
+.topmid{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 2px dotted black;
+}
+.bottommid{
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.strategyClass{
+    border-bottom: 2px dotted black;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.howClass{
+    border-bottom: 2px dotted black;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.placesClass{
+    border-bottom: 2px dotted black;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.collabClass{
+    border-bottom: 2px dotted black;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.buttonClass{
+    width: 50%;
+    height: 90px;
 }
