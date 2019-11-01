@@ -144,3 +144,18 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* header div{
+    display: flex;
+    justify-content: space-evenly;
+} */
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.top-pic{
+    display: flex;
+    justify-content: center;
+} 
+.box1{
+    background-color: teal;
+}
